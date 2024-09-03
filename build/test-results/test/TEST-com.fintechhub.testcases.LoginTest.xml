@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fintechhub.testcases.LoginTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-08-25T10:58:50" hostname="DILRUBA" time="19.078">
+  <properties/>
+  <testcase name="checkTitle" classname="com.fintechhub.testcases.LoginTest" time="0.017"/>
+  <testcase name="doLoginShouldPass" classname="com.fintechhub.testcases.LoginTest" time="3.247"/>
+  <testcase name="doLoginWithUsernameShouldFail" classname="com.fintechhub.testcases.LoginTest" time="0.822"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
